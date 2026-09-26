@@ -1,0 +1,59 @@
+{
+  "slug": "radon-winnipeg",
+  "city": "Winnipeg",
+  "metaTitle": "Radon Testing and Mitigation in Winnipeg | Prairie Radon",
+  "metaDescription": "Radon in Winnipeg: test long-term first, then fix it if you're over 200 Bq/m3. Advertised Winnipeg prices and Manitoba grants explained. Call (204) 555-0173.",
+  "h1": "Radon Testing and Mitigation in Winnipeg",
+  "heroSub": "Of the Winnipeg homes tested in the 2024 Cross-Canada survey, 37.4% came in at or above Health Canada's 200 Bq/m3 guideline. A long-term test through the heating season is the only way to know where yours sits.",
+  "introHtml": "<p>Radon in Winnipeg is common, invisible and cheap to check for. It's a radioactive gas that seeps up from the soil and collects in basements, and you can't see it or smell it. Health Canada says radon is the number one cause of lung cancer in non-smokers, linked to more than 3,000 lung cancer deaths in Canada each year. That's worth saying once. After that, the job is practical: test, and fix it if the number comes back high.</p><p>Prairie Radon Co connects Winnipeg homeowners with independent radon professionals for <a href=\"/radon-testing/\">testing</a> and <a href=\"/radon-mitigation/\">mitigation</a>. The honest first step is a long-term test of at least 91 days in the heating season, even though it means you won't need a contractor for a few months. If you already have a result over 200 Bq/m3, call (204) 555-0173 and we'll put you in touch with a mitigation professional who can quote the work.</p>",
+  "services": [
+    {
+      "title": "Long-term radon testing",
+      "desc": "A test of at least 91 days in the lowest lived-in level of your Winnipeg home, 30 cm above the floor and away from the sump. The Manitoba government puts kits at between $50 and $100."
+    },
+    {
+      "title": "Radon mitigation",
+      "desc": "Sub-slab depressurization: a pipe through the basement floor and a fan that vents soil gas outside. Winnipeg installers advertise systems from about $1,500 to $3,000."
+    },
+    {
+      "title": "Radon and a home sale",
+      "desc": "Buying or selling in Winnipeg and radon has come up in the inspection or the conditions? We'll explain the testing side; the contract questions belong with your realtor or lawyer."
+    },
+    {
+      "title": "Fan and system checks",
+      "desc": "A noisy fan, a dead one, or a manometer that doesn't look right. Health Canada's 2014 national figure for a replacement fan is $200 to $300."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "How common is radon in Winnipeg homes?",
+      "html": "<p>In the 2024 Cross-Canada survey, 37.4% of the Winnipeg homes that were tested came in at or above 200 Bq/m3. That unit is becquerels per cubic metre, a measure of radioactivity in the air. The survey names Winnipeg, along with Regina and Brandon, among Canadian cities where a quarter to half of homes are at or above that level, and the highest Winnipeg reading in it was 1,362 Bq/m3.</p><p>Keep in mind those are homes whose owners chose to test, so the figure isn't a weighted average for the whole city. It also says nothing about any one house, and your neighbour's result isn't yours. The survey's own line is that there are no areas of Canada that are radon-free.</p><p>For anyone reading US sources, 200 Bq/m3 is about 5.4 pCi/L. It's a Health Canada guideline, not a legal limit. No Manitoba law requires you to test your home or fix it, which leaves the decision with you.</p>"
+    },
+    {
+      "heading": "Testing a Winnipeg basement properly",
+      "html": "<p>Health Canada's guideline applies to the normal occupancy area, meaning a space someone uses 4 or more hours a day. In a lot of Winnipeg houses, from post-war bungalows to 1960s and 70s split-levels, that's a finished basement with a bedroom, a rec room or a suite. Put the detector there, at least 30 cm above the floor and 30 cm from the walls, and away from the sump pit, vents, windows and heat.</p><p>Winnipeg Public Library lends free digital radon screening kits at every branch from 1 November to 30 April, on a three-week loan with no renewals. It's a good first look. A screening monitor isn't the long-term test, though: Health Canada wants at least 91 days in the heating season, and a shorter test should be repeated.</p><p>If you'd rather have a professional place the test, call (204) 555-0173 and a radon measurement professional will quote it. Our <a href=\"/radon-testing/\">radon testing</a> page walks through how it works. Once a system is in, you test again, and again after an energy retrofit or if a lower floor becomes lived-in space.</p>"
+    },
+    {
+      "heading": "What mitigation costs in Winnipeg, and help paying for it",
+      "html": "<p>The usual fix is sub-slab depressurization: a pipe through the basement floor, a fan, and a discharge outside. Plenty of Winnipeg basements have a sump pit, and it has to be sealed with an airtight cover; if a floor drain runs into it, a trap goes in as well. Health Canada recommends a C-NRPP certified mitigation professional and a retest once the system is running.</p><p>Winnipeg installers advertise systems from about $1,500 to $3,000; a Regina installer quotes $2,500 to $3,500. One Winnipeg installer adds 20% for off-season work between 30 November and 20 May. Those are advertised figures, not our quote, and the professional who sees your basement will price your job. There's more on <a href=\"/radon-mitigation-cost/\">radon mitigation cost</a>.</p><p>In Manitoba, the Manitoba Lung Association runs the Lungs Matter grant: up to $1,500 for low- or moderate-income households, with a 90+ day C-NRPP test above 200 Bq/m3 and a C-NRPP quote required before the work is done, and funding is limited. Manitoba Hydro's Home Energy Efficiency Loan covers radon mitigation up to $5,000 over 5 years at 6.2% (O.A.C.), repaid on your energy bill, as long as the contractor is C-NRPP certified. There is currently no federal radon tax credit that we could find.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is radon really a problem in Winnipeg?",
+      "a": "It's common here. Of the Winnipeg homes tested in the 2024 Cross-Canada survey, 37.4% were at or above Health Canada's 200 Bq/m3 guideline. That doesn't tell you whether your own house is high or low, and only a long-term test will."
+    },
+    {
+      "q": "Can I borrow a radon detector from the Winnipeg Public Library?",
+      "a": "Yes. Every Winnipeg Public Library branch lends free radon screening kits from 1 November to 30 April, for three weeks with no renewals, and you need a library card in good standing. Treat the result as a screening; Health Canada's long-term test runs at least 91 days."
+    },
+    {
+      "q": "My Winnipeg house is fairly new. Doesn't it already have radon protection?",
+      "a": "Manitoba adopted the building code radon rough-in on 1 April 2011, so newer homes should have a sealed pipe below the basement floor. The rough-in doesn't lower radon by itself; a fan has to be added to make it an active system. A 2013 Winnipeg Parade of Homes study found rough-ins in all but one house, but almost half were in inaccessible locations. Test first either way."
+    },
+    {
+      "q": "Do I have to test for radon before selling a house in Winnipeg?",
+      "a": "We found no Manitoba rule requiring radon testing or disclosure at sale. Buyers can still ask for a test as a condition. For conditions, holdbacks or disclosure, talk to your realtor or lawyer; our home sale page covers the testing side."
+    }
+  ]
+}

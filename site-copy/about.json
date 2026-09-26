@@ -1,0 +1,39 @@
+{
+  "metaTitle": "About Prairie Radon Co | Radon Testing and Mitigation in Manitoba and Saskatchewan",
+  "metaDescription": "How Prairie Radon Co handles radon in Manitoba and Saskatchewan: long-term test first, independent C-NRPP professionals, a retest after. Call (204) 555-0173.",
+  "h1": "About Prairie Radon Co: Test First, Fix What the Number Says, Then Test Again",
+  "heroSub": "We put Prairie homeowners in touch with independent radon professionals and explain the work in plain terms. No scare copy and no rush to sell you a fan before you have a real result.",
+  "storyHtml": "<p>Prairie Radon Co is based in Winnipeg and covers Winnipeg, Regina, Saskatoon and the towns around them. We are not a laboratory, and we don't hold a certification ourselves. When you call, you're put in touch with an independent radon professional who does the testing or the installation, and any certification belongs to that person. You can look them up in the C-NRPP online directory before they set foot in your basement, and we'd encourage you to.</p><p>Here's the one serious number on this page. Health Canada says radon is the leading cause of lung cancer in non-smokers and estimates it's behind more than 3,000 lung cancer deaths in Canada each year. You can't see it or smell it, and your neighbour's result tells you nothing about yours. The only way to know is a long-term test of at least 91 days in the heating season, set up in the lowest level you actually live in, so that's where we start. It means some callers won't need anyone for three months, and we're fine with that. See <a href=\"/radon-testing/\">radon testing</a> for how to do it properly.</p><p>If the result comes back over 200 Bq/m3 (becquerels per cubic metre), that's Health Canada's guideline, not a law, and it recommends fixing the problem within a year. The fix is almost always sub-slab depressurization: a pipe through the basement floor, a fan, and a discharge outside. A careful installer looks at the slab, the sump, the floor drains and any rough-in pipe before quoting, because those decide how many suction points the house needs and where the fan can go. On price, Winnipeg installers advertise systems from about $1,500 to $3,000; a Regina installer quotes $2,500 to $3,500. The <a href=\"/radon-mitigation-cost/\">mitigation cost page</a> breaks that down, along with the grant and loan programs.</p><p>A job isn't finished when the fan switches on. The sump pit gets sealed, the manometer on the pipe should show the fan is pulling, and then you retest in the same spot, because a lower number is the only proof the system works. If you already have a system and the fan has gone quiet, loud or the manometer looks wrong, start with <a href=\"/radon-fan-replacement/\">radon fan replacement</a>. Questions about any of it? Call (204) 555-0173.</p>",
+  "values": [
+    {
+      "title": "A long-term test comes first",
+      "desc": "Short-term kits and digital monitors are screening tools. A decision about your house should rest on a test of at least three months in the lived-in basement, placed about 30 cm off the floor and away from sumps, vents and windows."
+    },
+    {
+      "title": "Certification you can check yourself",
+      "desc": "C-NRPP is voluntary, and no province regulates radon professionals, so we don't ask you to take anyone's word for it. Look the professional up in the C-NRPP directory. The Lungs Matter grant and the Manitoba Hydro loan both require a C-NRPP professional anyway."
+    },
+    {
+      "title": "Quotes built on the house, not a flyer",
+      "desc": "Suction under the slab, an open sump, a crawl space or a finished basement all change the job. A Regina installer says crawl spaces and multiple suction points cost more, which is why nobody should quote a firm number before seeing the house."
+    },
+    {
+      "title": "A retest proves the work",
+      "desc": "Health Canada says to retest after a mitigation system goes in, after an energy retrofit, and when a new floor becomes the lowest lived-in level. If the number hasn't dropped, the system needs another look."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is Prairie Radon Co certified by C-NRPP or approved by Health Canada?",
+      "a": "No. We are not a lab and hold no certification. The independent professional who tests your home or installs a system carries their own certification, and you can verify it in the C-NRPP online directory. Health Canada recommends using a C-NRPP certified professional for mitigation."
+    },
+    {
+      "q": "Do I have to fix radon by law in Manitoba or Saskatchewan?",
+      "a": "No. The 200 Bq/m3 figure is a Health Canada guideline, and neither province requires homeowners to test or mitigate. Above 200, Health Canada recommends fixing it within a year. Below 200, it notes that no level is considered risk free."
+    },
+    {
+      "q": "Why tell me to test for three months instead of booking an install?",
+      "a": "Because a mitigation quote without a proper result is guesswork, and short tests and digital monitors are screening only. The money help needs it too: the Lungs Matter grant asks for a C-NRPP test of 90 days or more above 200 Bq/m3. A kit costs between $50 and $100, according to the Manitoba government, and libraries in Winnipeg, Regina and Moose Jaw lend free screening monitors."
+    }
+  ]
+}

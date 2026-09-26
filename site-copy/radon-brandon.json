@@ -1,0 +1,59 @@
+{
+  "slug": "radon-brandon",
+  "city": "Brandon",
+  "metaTitle": "Radon Testing and Mitigation in Brandon and Westman, MB",
+  "metaDescription": "Radon in Brandon and Westman: 36.1% of the Brandon homes tested in 2024 were at or above 200 Bq/m3. Start with a long-term test. Call now: (204) 555-0173.",
+  "h1": "Radon Testing and Mitigation in Brandon, Manitoba",
+  "heroSub": "Brandon has turned up some of the higher radon results in Manitoba's surveys. A three-month test in your basement tells you where your own house sits.",
+  "introHtml": "<p>Brandon and the Westman towns around it show up near the top of Manitoba's radon surveys. In Health Canada's 2012 survey, 44.3% of the homes tested in the Brandon health region were above 200 Bq/m3, the highest share in either Manitoba or Saskatchewan. The 2024 Cross-Canada survey found 36.1% of the Brandon homes it tested at or above that level, from a small sample of homeowners who chose to test.</p><p>None of that tells you what's in your house. Radon has no colour or smell, and the only way to know your number is a long-term test of at least 91 days in the lowest level you actually live in. If the result comes back high, we put you in touch with an independent C-NRPP certified professional who can look at the house and quote a fix. Call now on (204) 555-0173 if you'd like to talk it through first.</p>",
+  "services": [
+    {
+      "title": "Long-term radon testing",
+      "desc": "A test of at least 91 days, ideally over a Westman heating season, placed in the lowest lived-in level of your home. The Manitoba government puts long-term kits at between $50 and $100. <a href=\"/radon-testing/\">How testing works</a>."
+    },
+    {
+      "title": "Radon mitigation",
+      "desc": "If your Brandon result is over 200 Bq/m3, a certified mitigation professional can install sub-slab depressurization: a pipe through the basement floor, a fan, and a discharge outside. <a href=\"/radon-mitigation/\">How a system works</a>."
+    },
+    {
+      "title": "Testing for a home sale",
+      "desc": "Buying or selling in Brandon with radon on the table? We explain your testing options and point you to your realtor or lawyer for conditions and holdbacks. <a href=\"/radon-testing-home-sale/\">Radon and real estate</a>."
+    },
+    {
+      "title": "Fan replacement and system checks",
+      "desc": "A noisy fan, a dead fan or a manometer that reads flat usually means the system has stopped pulling air. A certified professional can check it and retest. <a href=\"/radon-fan-replacement/\">Fan problems</a>."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "What the Brandon numbers actually say",
+      "html": "<p>Two surveys cover Brandon, and they measured different homes in different ways, so don't read them as a trend. The 2012 Health Canada survey found 44.3% of 79 tested homes in the Brandon health region above 200 Bq/m3, and 34.5% in the wider Assiniboine region around the city. The 2024 Cross-Canada survey put Brandon at 36.1% of the homes tested, with a geometric mean of 147.0 Bq/m3, and named Brandon among the Canadian cities where a quarter to half of homes are at or above 200.</p><p>A Bq/m3 (becquerel per cubic metre) is how radon in air is measured in Canada. Health Canada's guideline is 200 Bq/m3 as an average over the year, which is about 5.4 pCi/L if you're comparing with American sources. It is a guideline, not a law: no Manitoba rule makes a homeowner test or fix.</p><p>Why bother, then? Health Canada says radon is the number one cause of lung cancer in non-smokers and estimates it causes more than 3,000 lung cancer deaths in Canada each year. That's the whole case. It's common here, you can't see it, and a test is cheap.</p>"
+    },
+    {
+      "heading": "Testing a house in Westman",
+      "html": "<p>Health Canada wants a test of at least three months, and 3 to 12 months is better. Put the detector in the lowest level someone spends four or more hours a day in, such as a finished basement or a basement bedroom, at least 30 cm off the floor and 30 cm from the walls. Keep it away from the sump, vents, windows and heat. A test that comes in under 91 days should be repeated.</p><p>Western Manitoba Regional Library, which has branches in Brandon, Carberry, Glenboro, Hartney and Neepawa, is a lending partner in the Manitoba Lung Association's detector programme. We couldn't find its loan length or season published, so ask at your branch. Library units are digital screening monitors: handy for a first look, but not a substitute for a proper long-term test.</p><p>Retest after a mitigation system goes in, after energy retrofits like new windows or air sealing, and if you finish a lower floor and start living in it. <a href=\"/radon-testing/\">More on testing</a>.</p>"
+    },
+    {
+      "heading": "What a fix costs, and help paying for it",
+      "html": "<p>We found no mitigation price published by a Brandon contractor, so we won't make one up. The nearest real figures: Winnipeg installers advertise systems from about $1,500 to $3,000, and a Regina installer quotes $2,500 to $3,500. Health Canada's national range from 2014 is $2,000 to $3,000. A certified professional who has seen your basement will give you the only number that matters. <a href=\"/radon-mitigation-cost/\">Cost breakdown</a>.</p><p>Two programmes can help Manitoba households. The Manitoba Lung Association runs Lungs Matter, which pays up to $1,500 toward mitigation for low- or moderate-income households; you need a 90-plus day C-NRPP test over 200 and a C-NRPP quote, the work can't already be done, and funding is limited. Manitoba Hydro's Home Energy Efficiency Loan covers radon mitigation up to $5,000 over five years at 6.2% (O.A.C.) on your energy bill, with no income test, as long as the contractor is C-NRPP certified.</p><p>Built since 1 April 2011? Manitoba homes built under the code since then should have a radon rough-in: a pipe below the basement floor, sealed and labelled. The rough-in does not lower radon by itself. It only makes a fan easier to add if your test comes back high.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is radon worse in Brandon than in Winnipeg?",
+      "a": "The surveys can't settle that. In 2024, 36.1% of the Brandon homes tested and 37.4% of the Winnipeg homes tested were at or above 200 Bq/m3, but the Brandon sample was small and neither figure is weighted. Both cities are clearly high enough that testing makes sense."
+    },
+    {
+      "q": "Can I borrow a radon detector from the library in Brandon?",
+      "a": "Western Manitoba Regional Library is a partner in the Manitoba Lung Association lending programme, with branches in Brandon, Carberry, Glenboro, Hartney and Neepawa. We couldn't find published loan terms, so check with your branch. A borrowed digital monitor is a screening tool; follow it with a long-term test of 91 days or more."
+    },
+    {
+      "q": "Do I have to test for radon when I sell a house in Brandon?",
+      "a": "We found no Manitoba rule that requires radon testing or disclosure at sale. Buyers can still ask for a test as a condition. Talk to your realtor or lawyer about conditions and holdbacks, and see our page on <a href=\"/radon-testing-home-sale/\">radon and home sales</a>."
+    },
+    {
+      "q": "Who fixes radon in Brandon, and how do I check them?",
+      "a": "Health Canada recommends a C-NRPP certified mitigation professional. Certification is voluntary and belongs to the individual, so look them up in C-NRPP's online directory before you sign anything. Call (204) 555-0173 and we'll connect you with an independent certified professional who can quote your house."
+    }
+  ]
+}

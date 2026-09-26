@@ -1,0 +1,59 @@
+{
+  "slug": "radon-saskatoon",
+  "city": "Saskatoon",
+  "metaTitle": "Radon Testing and Mitigation in Saskatoon | Prairie Radon",
+  "metaDescription": "Radon in Saskatoon: about 1 in 6 tested homes came in over the guideline. Start with a long-term test, and call (204) 555-0173 if your result is high.",
+  "h1": "Radon Testing and Mitigation in Saskatoon",
+  "heroSub": "Saskatoon has the lowest radon numbers of the four Prairie cities surveyed, but roughly 1 in 6 tested homes still came in at or above the guideline. The only way to know about yours is a long-term test in the basement you actually live in.",
+  "introHtml": "<p>Radon in Saskatoon is less common than in Regina or Winnipeg, but it isn't rare. Of the Saskatoon homes tested in the 2024 Cross-Canada Survey, 17.8% were at or above 200 Bq/m3 (becquerels per cubic metre, the Canadian unit) and another 44.3% landed between 100 and 199. Those are unweighted figures from homes that chose to test, so read them as a rough picture, not a census.</p><p>Radon is a colourless, odourless gas that seeps up from the ground and collects in basements. Health Canada says it's the number one cause of lung cancer in non-smokers, and that's the last time we'll say it this loudly. Prairie Radon Co connects homeowners in Saskatoon, Warman, Martensville and the acreages around the city with independent radon professionals. Our advice on the first step costs you nothing: <a href=\"/radon-testing/\">run a long-term test</a> before anyone quotes you a system.</p>",
+  "services": [
+    {
+      "title": "Long-term radon testing",
+      "desc": "Health Canada acts on a test of at least 91 days in the heating season, placed in your lowest lived-in level. Kits from the lung associations' HomeRadonTest.ca run about $70 before tax and are analysed at the Saskatchewan Research Council lab."
+    },
+    {
+      "title": "Radon mitigation",
+      "desc": "If a long-term result comes back over 200 Bq/m3, a certified mitigation professional can install sub-slab depressurization: a pipe through the basement slab, a fan, and a discharge outside. No Saskatoon installer publishes a price, so the professional quotes your house."
+    },
+    {
+      "title": "Radon and home sales",
+      "desc": "Buying or selling in Saskatoon and radon has come up in the conditions? A C-NRPP measurement professional can explain what a short timeline can and can't tell you, while your realtor or lawyer handles the paperwork."
+    },
+    {
+      "title": "Fan and system checks",
+      "desc": "A noisy fan, a dead fan or a manometer that reads wrong all mean the system needs a look. Health Canada's 2014 national figure for a fan replacement is $200 to $300; a professional will quote the actual job."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "What the survey numbers mean for a Saskatoon basement",
+      "html": "<p>Of the Saskatoon homes in the 2024 Cross-Canada Survey, roughly 1 in 6 tested at or above 200 Bq/m3. That's well below Regina's 46.6% of tested homes, but the highest Saskatoon reading in the same survey was 820 Bq/m3. A modest city figure tells you nothing about the house on your street, let alone your rec room.</p><p>If you live on an acreage outside the city, don't lean on Saskatoon's number. Across the Prairies, the survey found about 1 in 4 rural homes (26.7%) at or above 200, against about 1 in 6 urban homes (15.9%). The survey's own line is that there are no areas of Canada that are radon-free.</p><p>The 200 Bq/m3 figure is a Health Canada guideline for the average annual level in a space you use four or more hours a day, like a finished basement or a basement bedroom. It's not a legal limit, and Saskatchewan law doesn't require homeowners to test or fix anything. Health Canada also says no level is considered risk free, which is why the test result matters more than the city average.</p>"
+    },
+    {
+      "heading": "Testing in Saskatoon: borrow a monitor, then run the real test",
+      "html": "<p>Saskatoon Public Library (Frances Morrison Central Library) and Library of Things YXE have both been listed as radon detector lenders, and Lung Saskatchewan, whose office is in Saskatoon, backed the library's lending launch in December 2023. Check the loan season and terms with the library itself before you go. A borrowed digital monitor is a screening tool: handy for a first look, not a result you act on.</p><p>The result that counts is a long-term test of at least 91 days during the heating season, and 3 to 12 months is better. Put it in the lowest level someone uses, at least 30 cm above the floor and 30 cm from walls, and keep it clear of the sump, vents, windows and heat sources. If a test ran shorter than 91 days, repeat it. Our <a href=\"/radon-testing/\">radon testing guide</a> covers the details.</p>"
+    },
+    {
+      "heading": "If your result is high: cost and help in Saskatchewan",
+      "html": "<p>Above 200 Bq/m3, Health Canada recommends fixing it within a year, and it recommends a C-NRPP certified mitigation professional for the work. No Saskatoon contractor publishes a price, so here's what's out there: Winnipeg installers advertise systems from about $1,500 to $3,000; a Regina installer quotes $2,500 to $3,500, and says crawl spaces or multiple suction points cost more. Health Canada's 2014 national range was $2,000 to $3,000. See <a href=\"/radon-mitigation-cost/\">radon mitigation cost</a> for how those figures break down.</p><p>On help with the bill: the Canadian Lung Association's Lungs Matter program offers up to $1,500 to low- and moderate-income households below the provincial median, with a 90-day C-NRPP test over 200 and a C-NRPP quote, and not for work already done. Funding is limited. Lung Saskatchewan has offered reimbursement in the past, so check its site, and it says radon mitigation counts as an eligible expense under the Saskatchewan Home Renovation Tax Credit; confirm that with CRA.</p><p>There is currently no federal radon tax credit that we could find. Whatever you spend, retest after the <a href=\"/radon-mitigation/\">mitigation system</a> goes in. If your long-term number is already back and it's high, call now at (204) 555-0173.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is radon a problem in Saskatoon?",
+      "a": "Less often than in Regina or Winnipeg, but it shows up. Roughly 1 in 6 of the Saskatoon homes tested in the 2024 Cross-Canada Survey were at or above 200 Bq/m3, and the highest reading was 820. Your own house can only be judged by a long-term test."
+    },
+    {
+      "q": "Can I borrow a radon detector from a Saskatoon library?",
+      "a": "Saskatoon Public Library and Library of Things YXE have lent radon detectors, with Lung Saskatchewan's support. Ask the library about the current season and loan terms. Treat the borrowed monitor as a screen and follow it with a 91-day test."
+    },
+    {
+      "q": "My Saskatoon house is new. Isn't radon already dealt with?",
+      "a": "Not fully. The 2020 building codes in force in Saskatchewan since 1 January 2024 require a subfloor depressurization rough-in, commonly a 100 mm pipe below the basement floor, but the rough-in does not actively reduce radon. A fan has to be added if a test comes back high, so a new home still needs testing."
+    },
+    {
+      "q": "Do I have to test for radon before selling a house in Saskatoon?",
+      "a": "We found no Saskatchewan rule requiring radon testing or disclosure at sale. Sellers in Saskatchewan must disclose known latent defects, and whether a known radon result falls under that is a question for your realtor or lawyer."
+    }
+  ]
+}

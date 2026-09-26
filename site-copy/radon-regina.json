@@ -1,0 +1,59 @@
+{
+  "slug": "radon-regina",
+  "city": "Regina",
+  "metaTitle": "Radon Testing and Mitigation in Regina, SK | Prairie Radon",
+  "metaDescription": "Radon in Regina: 46.6% of homes tested in the 2024 survey were at or above Health Canada's guideline. Start with a long-term test. Call (204) 555-0173.",
+  "h1": "Radon Testing and Mitigation in Regina",
+  "heroSub": "Regina tests high: in the 2024 Cross-Canada survey, 46.6% of the Regina homes tested were at or above Health Canada's guideline. A long-term test over the heating season tells you where your own basement sits.",
+  "introHtml": "<p>Radon in Regina is common enough that the City put out its own advisory in June 2024. It cites research in which \"50% of homes tested in Regina exceeded 200 Bq/m3\", and 200 Bq/m3 (becquerels per cubic metre, about 5.4 pCi/L if you're used to American numbers) is Health Canada's guideline. Neither figure tells you about your house. Only a test does.</p><p>Radon is a colourless, odourless gas from the ground that collects in basements. Health Canada calls it the number one cause of lung cancer in non-smokers, second only to smoking overall, and links it to more than 3,000 lung cancer deaths in Canada each year. The fix is fairly boring: <a href=\"/radon-testing/\">run a long-term test</a>, and if the number is high, have a certified professional put in a system. Prairie Radon Co holds no certification itself; we put Regina homeowners in touch with independent radon professionals, and you can check any professional's certification in C-NRPP's online directory. Questions? Call now at (204) 555-0173.</p>",
+  "services": [
+    {
+      "title": "Long-term radon testing",
+      "desc": "Health Canada's standard is a test of at least 91 days in the lowest lived-in level of the house, ideally through the heating season. In a Regina home that usually means the finished basement: the kids' bedrooms, the rec room or the basement suite."
+    },
+    {
+      "title": "Radon mitigation",
+      "desc": "A sub-slab depressurization system runs a pipe through the basement slab, and a fan vents the gas outside. Before quoting, a certified installer checks how air moves under your slab, because some Regina houses need more than one suction point."
+    },
+    {
+      "title": "Radon testing for a home sale",
+      "desc": "We found no Saskatchewan rule that requires a radon test at sale. If radon has come up in a Regina inspection or in the conditions, a test gives both sides a real number, and your realtor or lawyer can tell you how to write it in."
+    },
+    {
+      "title": "Fan replacement and system checks",
+      "desc": "A noisy fan, a dead one or a manometer reading that looks wrong means the system needs a look. Health Canada's 2014 national estimate for a replacement fan is $200 to $300; a Regina professional will quote your actual job."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Why radon runs high in Regina",
+      "html": "<p>Regina keeps turning up near the top of the list. In the 2024 Cross-Canada survey, run by Evict Radon with Health Canada, 46.6% of the Regina homes tested were at or above 200 Bq/m3, with a geometric mean of 182.7 Bq/m3. That is the highest share of the four Prairie cities in the survey, but the city figures come from homes that were tested and aren't weighted to stand for the whole city. The highest single Regina result was 11,333 Bq/m3, which is a good reminder that an average says little about one house.</p><p>The City's June 2024 advisory says the western Prairies and Regina have some of the highest levels in the country, and it summarises research finding that Regina had the highest levels of the major cities in Saskatchewan and Alberta. Most Regina houses sit on heavy clay with full basements, and the basement is where the house meets the soil. Soil type and house age still won't give you the number for your home. The survey puts it plainly: there are no areas of Canada that are radon-free.</p><p>The same goes for the towns around the city, such as White City, Pilot Butte, Balgonie and Lumsden. Across the Prairies, the 2024 survey found 26.7% of rural homes tested at or above 200 Bq/m3, against 15.9% of urban homes, so living outside city limits is no reason to skip the test. If you're closer to Moose Jaw, see our <a href=\"/radon-moose-jaw/\">Moose Jaw page</a>.</p>"
+    },
+    {
+      "heading": "What radon mitigation costs in Regina, and who helps pay",
+      "html": "<p>A Regina installer quotes $2,500 to $3,500 for a system, and says houses with a crawl space or multiple suction points can cost more. For comparison, Winnipeg installers advertise systems from about $1,500 to $3,000, and Health Canada's 2014 national estimate was $2,000 to $3,000. These are advertised figures, not our quote: the professional who sees your basement sets the price. There's more detail on our <a href=\"/radon-mitigation-cost/\">mitigation cost page</a>.</p><p>The Canadian Lung Association's Lungs Matter program offers up to $1,500 to low- and moderate-income households, meaning income below the provincial median. It needs a test of 90+ days by a C-NRPP professional showing more than 200 Bq/m3 and a quote from a C-NRPP professional, and it won't cover work that's already done. Funding is limited, so apply before you book the install.</p><p>Lung Saskatchewan has offered reimbursement in the past; check its site to see whether that has come back. Lung Saskatchewan also says radon mitigation counts as an eligible expense for the Saskatchewan Home Renovation Tax Credit, which is 10.5% on up to $4,000 of eligible expenses above a $1,000 base (a saving of up to $420), so confirm with CRA before you count on it. There is currently no federal radon tax credit that we could find.</p>"
+    },
+    {
+      "heading": "What the City of Regina will and won't do",
+      "html": "<p>The 200 Bq/m3 figure is a guideline for the yearly average in the part of the house you use at least four hours a day, such as a finished basement. It isn't a law. The City of Regina says there is \"no legislated maximum level or enforceable level\", and it doesn't require testing or mitigation, so the decision is the owner's. It also says it can't act as a go-between for a tenant and a landlord, which matters if you rent out a basement suite or live in one.</p><p>Where the City does step in is new construction. The National Building Code, in force in Saskatchewan in its 2020 edition since 1 January 2024, requires a radon rough-in under the basement floor, commonly a 100 mm pipe below the slab, sealed and labelled, and Regina checks for radon details at plan review. As the City's summary of the code puts it, the rough-in \"does not actively reduce radon levels\". A fan has to be added for it to do anything, so test a new house like any other.</p><p>If your result is over 200 Bq/m3, Health Canada recommends fixing it within a year, and a <a href=\"/radon-mitigation/\">mitigation system</a> usually does the job. Below 200, it notes there is no level considered risk-free, so what you do is up to you. Either way, retest after a system goes in and after energy upgrades that tighten the house.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is radon really that common in Regina?",
+      "a": "By every measure we have, yes. In the 2024 Cross-Canada survey, 46.6% of the Regina homes tested came in at or above 200 Bq/m3, and the City of Regina cites research where half the homes tested were over that level. Those are homes that chose to test, so they don't tell you the odds for yours. A long-term test does."
+    },
+    {
+      "q": "Can I borrow a radon detector from the Regina Public Library?",
+      "a": "Yes, if you're a Regina resident. The library has 30 digital kits you can borrow free with a library card for three weeks, with no renewals. Three weeks on a digital monitor is a screening, not the 91-day test Health Canada recommends, but the kit includes a coupon for an analog test kit. Use the loan for a first read, then run the long test."
+    },
+    {
+      "q": "How much does radon mitigation cost in Regina?",
+      "a": "A Regina installer quotes $2,500 to $3,500, with crawl spaces or multiple suction points costing more. Winnipeg installers advertise from about $1,500 to $3,000, for comparison. Your price depends on your basement, and a C-NRPP certified mitigation professional will quote it after a look. Call now at (204) 555-0173 and we'll put you in touch."
+    },
+    {
+      "q": "I'm buying a house in Regina. Does the seller have to test for radon?",
+      "a": "We found no Saskatchewan rule that requires radon testing or radon disclosure at sale. Saskatchewan sellers must disclose known latent defects, and whether a known high radon result counts is a question for your lawyer. If you want a test as a condition, or a holdback for mitigation, ask your realtor or lawyer how to write it."
+    }
+  ]
+}

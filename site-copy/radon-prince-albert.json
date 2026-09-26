@@ -1,0 +1,59 @@
+{
+  "slug": "radon-prince-albert",
+  "city": "Prince Albert",
+  "metaTitle": "Radon Testing and Mitigation in Prince Albert, Saskatchewan",
+  "metaDescription": "Radon in Prince Albert, SK: why a 3-month test comes first, what mitigation costs on the Prairies, and help paying for it. Call (204) 555-0173 to talk it over.",
+  "h1": "Radon Testing and Mitigation in Prince Albert",
+  "heroSub": "Prince Albert has very little local radon data, which is exactly why a long-term test in your basement matters more than any map. We connect homeowners in the city and the acreages around it with independent C-NRPP certified radon professionals.",
+  "introHtml": "<p>Radon in Prince Albert is a question almost nobody has measured well. The last survey that covered the area is from 2012, and the 2024 Cross-Canada survey does not list Prince Albert in its city tables at all. So we can't tell you your home is fine, and neither can anyone else without a test.</p><p>Radon is a gas that comes up out of the soil and collects in basements, with no smell or colour. Health Canada says it is the number one cause of lung cancer in non-smokers and estimates more than 3,000 lung cancer deaths a year in Canada from it. The fix is usually straightforward, and the first step is cheap: a <a href=\"/radon-testing/\">long-term test</a> of at least three months.</p>",
+  "services": [
+    {
+      "title": "Long-term radon testing",
+      "desc": "Health Canada's method is a test of at least 91 days in the heating season, placed in the lowest level you use every day. A Prince Albert winter gives you plenty of heating season to run one."
+    },
+    {
+      "title": "Radon mitigation systems",
+      "desc": "Sub-slab depressurization: a pipe through the basement slab, a fan, and a discharge outside. Health Canada recommends a C-NRPP certified mitigation professional, and a retest once it's running. See <a href=\"/radon-mitigation/\">how mitigation works</a>."
+    },
+    {
+      "title": "Testing for a home sale",
+      "desc": "We found no Saskatchewan rule that requires a radon test when a house changes hands. If radon comes up in your offer or inspection, read our <a href=\"/radon-testing-home-sale/\">home sale guide</a> and talk to your realtor or lawyer about conditions."
+    },
+    {
+      "title": "Fan replacement and system checks",
+      "desc": "A fan that has gone quiet, turned noisy, or a manometer that reads flat usually means the system needs attention. Our <a href=\"/radon-fan-replacement/\">fan replacement page</a> covers what to look for."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "What the numbers say about Prince Albert",
+      "html": "<p>The only local figure comes from Health Canada's 2012 survey. In the Prince Albert Parkland health region, 7.4% of the 108 homes tested were above 200 Bq/m3 (becquerels per cubic metre, a measure of radioactivity in the air). That is a health region, not the city, and it is a small sample from more than a decade ago.</p><p>The 2024 Cross-Canada survey did not report Prince Albert, but its wider findings are worth knowing. About 1 in 3 of the Saskatchewan and Manitoba homes tested were at or above 200, and rural Prairie homes came in higher than urban ones: 26.7% against 15.9%. In Saskatoon, the nearest surveyed city, roughly 1 in 6 tested homes were at or above 200.</p><p>The survey authors also say there are no areas of Canada that are radon-free. Two houses on the same street can read very differently, so a regional percentage tells you whether to bother testing, not what your basement holds.</p>"
+    },
+    {
+      "heading": "Getting a test done in Prince Albert",
+      "html": "<p>We couldn't find a library lending programme for radon detectors in Prince Albert. Saskatoon libraries have lent detectors, and Regina and Moose Jaw run programmes too, but those are screening monitors and not a substitute for a long-term test.</p><p>A long-term test kit is inexpensive: HomeRadonTest.ca lists $70.00 per kit before tax. Put it in the lowest lived-in level, such as a finished basement, a basement suite or a kids' bedroom downstairs, at least 30 cm off the floor and 30 cm from the walls. Keep it away from the sump, vents, windows and heat, and leave it for at least 91 days.</p><p>The Canadian guideline is 200 Bq/m3, which is about 5.4 pCi/L in US terms. It is a guideline, not a law, and nobody in Saskatchewan is required to test. Health Canada recommends fixing a home within a year if the result is above 200, and notes there is no level considered risk free.</p>"
+    },
+    {
+      "heading": "Mitigation cost and help paying for it",
+      "html": "<p>We found no advertised mitigation price for Prince Albert. For a sense of scale, a Regina installer quotes $2,500 to $3,500, with crawl spaces or several suction points costing more, and Winnipeg installers advertise systems from about $1,500 to $3,000. Health Canada's 2014 national range was $2,000 to $3,000. A certified professional will quote your house after seeing it; our <a href=\"/radon-mitigation-cost/\">cost page</a> explains what moves the number.</p><p>The Canadian Lung Association's Lungs Matter program offers up to $1,500 for households with income below the provincial median. It needs a 90+ day C-NRPP test above 200 and a C-NRPP quote, it doesn't cover work already done, and funding is limited. Lung Saskatchewan has offered reimbursement in the past, so check its site for the current status.</p><p>Lung Saskatchewan also says radon mitigation counts as an eligible expense under the Saskatchewan Home Renovation Tax Credit; confirm that with CRA before you count on it. There is currently no federal radon tax credit that we could find.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is radon a problem in Prince Albert?",
+      "a": "Nobody knows for your house without a test. The 2012 survey found 7.4% of 108 tested homes in the Prince Albert Parkland health region above 200 Bq/m3, and Prince Albert is not in the 2024 survey tables. Across Saskatchewan and Manitoba, about 1 in 3 tested homes were at or above 200 in 2024, so a long-term test is worth the money."
+    },
+    {
+      "q": "Can I borrow a radon detector from the library in Prince Albert?",
+      "a": "We couldn't find a lending programme in Prince Albert. Saskatoon libraries have lent detectors, but a borrowed digital monitor is a screening tool. For a result you can act on, run a long-term test of at least 91 days in the heating season."
+    },
+    {
+      "q": "How much does radon mitigation cost in Prince Albert?",
+      "a": "No Prince Albert installer publishes a price that we found. A Regina installer quotes $2,500 to $3,500, and Winnipeg installers advertise systems from about $1,500 to $3,000. Your price depends on the house, and a C-NRPP certified professional will quote it after an assessment."
+    },
+    {
+      "q": "My Prince Albert house was built after 2024. Is it already protected?",
+      "a": "The 2020 building codes came into force in Saskatchewan on 1 January 2024 and require a radon rough-in, commonly a pipe below the basement floor, sealed and labelled. The rough-in does not actively reduce radon on its own: a fan has to be added. Test the house first, and if it reads above 200, a professional can finish the system from the rough-in."
+    }
+  ]
+}

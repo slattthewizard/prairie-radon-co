@@ -1,0 +1,6 @@
+# Prairie Radon Co — robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://prairieradonco.ca/sitemap-index.xml
