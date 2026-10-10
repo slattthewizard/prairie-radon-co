@@ -111,7 +111,8 @@
   },
   {
     "draft": "drafts/what-is-c-nrpp-certification-2026-09-26.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-10T19:08:48.091478Z"
   },
   {
     "draft": "drafts/what-radon-level-needs-mitigation-2026-09-26.md",
