@@ -116,7 +116,8 @@
   },
   {
     "draft": "drafts/what-radon-level-needs-mitigation-2026-09-26.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-11T19:22:33.329390Z"
   },
   {
     "draft": "drafts/where-to-place-radon-detector-2026-09-26.md",
